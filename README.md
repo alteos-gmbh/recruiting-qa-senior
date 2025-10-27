@@ -33,13 +33,13 @@ We’re focusing on the **E-Bike & Fahrrad** insurance product on our sandbox sh
 
    - Visit the sandbox shop above.
    - Explore the **E-Bike & Fahrrad** product flow (see "orange square").
-   - Create a **Test Plan** (in Markdown or Google Sheets) that outlines:
+   - Create a **Test Plan** (in Markdown using a [table](https://www.markdownguide.org/extended-syntax/#tables)) that outlines:
      - Scope and test objectives
      - Key test scenarios
      - Functional test cases
      - Edge or negative test ideas
      - Other relevant aspects
-   - Include this file as `test-plan.md` or link to your shared Google Sheet.
+   - Include this file as `test-plan.md`.
 
 3. **Automation:**
 
