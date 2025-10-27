@@ -18,7 +18,7 @@ We’re focusing on the **E-Bike & Fahrrad** insurance product on our sandbox sh
 
 👉 [https://shop.sandbox.alteos.com/](https://shop.sandbox.alteos.com/)
 
-<img width="1406" height="880" alt="image" src="https://github.com/user-attachments/assets/5dcf2092-b3b6-45bb-92e7-1b2040177f18" />
+<img width="1988" height="1236" alt="image" src="screenshot.png" />
 
 ---
 
