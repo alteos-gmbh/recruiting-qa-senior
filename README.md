@@ -32,21 +32,22 @@ We’re focusing on the **E-Bike & Fahrrad** insurance product on our sandbox sh
 2. **Test Planning:**
 
    - Visit the sandbox shop above.
-   - Explore the **E-Bike & Fahrrad** product flow.
+   - Explore the **E-Bike & Fahrrad** product flow (see "orange square").
    - Create a **Test Plan** (in Markdown or Google Sheets) that outlines:
      - Scope and test objectives
      - Key test scenarios
      - Functional test cases
      - Edge or negative test ideas
+     - Other relevant aspects
    - Include this file as `test-plan.md` or link to your shared Google Sheet.
 
 3. **Automation:**
 
-   - Pick **1–3 test cases** from your plan.
+   - Pick **1 - 2 test cases** from your plan.
    - Implement E2E tests using:
      - **TypeScript**
      - **Playwright**
-   - Don’t spend more than **1 hour** on implementation. Focus on code readability and structure.
+   - Don’t spend more than **1 hour** on implementation.
 
 4. **Execution:**
 
@@ -54,7 +55,7 @@ We’re focusing on the **E-Bike & Fahrrad** insurance product on our sandbox sh
      - How to install dependencies
      - How to run the tests
      - Any test configuration or environment setup steps
-   - File structure example:
+   - File structure **example**:
      ```bash
           qa-homework/
           ├── test-plan.md
