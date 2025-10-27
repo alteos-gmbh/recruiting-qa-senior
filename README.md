@@ -26,8 +26,8 @@ We’re focusing on the **E-Bike & Fahrrad** insurance product on our sandbox sh
 
 1. **Download the repository:**
 
-   - Use `git` and clone this repository to your local environment
-   - `git clone git@github.com:alteos-gmbh/recruiting-qa-senior.git`
+   - Use `git` and create a copy (`fork`) of this repository
+   - Clone your fork to your local environment
 
 2. **Test Planning:**
 
