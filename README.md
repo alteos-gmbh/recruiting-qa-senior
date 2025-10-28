@@ -70,11 +70,11 @@ We’re focusing on the **E-Bike & Fahrrad** insurance product on our sandbox sh
 5. **Submission:**
    - Push your solution to a **private** GitHub repository.
    - Add the following users as collaborators:
-     - @icostadev
-     - @arturrybak
-     - @kelmaghraby
-     - @cbmono
-   - Email us the **repository link** when you’re done.
+     - [icostadev](https://github.com/icostadev)
+     - [arturrybak](https://github.com/arturrybak)
+     - [kelmaghraby](https://github.com/kelmaghraby)
+     - [cbmono](https://github.com/cbmono)
+   - Email us the **Repository link** when you’re done.
 
 ---
 
