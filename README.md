@@ -26,8 +26,9 @@ We’re focusing on the **E-Bike & Fahrrad** insurance product on our sandbox sh
 
 1. **Download the repository:**
 
-   - Use `git` and create a copy (`fork`) of this repository
-   - Clone your fork to your local environment
+   - [Download](https://github.com/alteos-gmbh/recruiting-qa-senior/archive/refs/heads/main.zip) the Repo as a zip file.
+   - Don't `clone` or `fork` the repository to avoid making solutions public.
+   - Alternatively, you can also create a new **private** repository.
 
 2. **Test Planning:**
 
@@ -67,7 +68,12 @@ We’re focusing on the **E-Bike & Fahrrad** insurance product on our sandbox sh
      ```
 
 5. **Submission:**
-   - Push your solution to a **public GitHub repository**.
+   - Push your solution to a **private** GitHub repository.
+   - Add the following users as collaborators:
+     - @icostadev
+     - @arturrybak
+     - @kelmaghraby
+     - @cbmono
    - Email us the **repository link** when you’re done.
 
 ---
